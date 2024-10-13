@@ -1,4 +1,2 @@
-# alpilean
 
-Visit: https://faruq05.github.io/alpilean/
-# alpilean
+# https://zellyo-digital0.github.io/alpilean
